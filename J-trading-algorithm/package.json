@@ -1,0 +1,16 @@
+{
+  "name": "J-trading-algo pre-alpha 0.1",
+  "version": "0.1.0",
+  "description": "Automated trading",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "technicalindicators": "^3.1.0",
+    "ws": "^8.8.0"
+  }
+}
